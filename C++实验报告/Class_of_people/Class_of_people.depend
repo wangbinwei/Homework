@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1526963444 source:d:\单片机+os\c++课件\class_of_people\main.cpp
+	<iostream>
+	"people.hpp"
+
+1526963444 d:\单片机+os\c++课件\class_of_people\people.hpp
+	<iostream>
+	<cstdio>
+	<math.h>
+	<string.h>
+
+1527098133 source:d:\单片机+os\c++课件\c++实验报告\class_of_people\main.cpp
+	<iostream>
+	"people.hpp"
+
+1527098020 d:\单片机+os\c++课件\c++实验报告\class_of_people\people.hpp
+	<iostream>
+	<cstdio>
+	<math.h>
+	<string.h>
+
+1527097402 source:d:\单片机+os\c++课件\c++实验报告\class_of_people\date.cpp
+	"people.hpp"
+	<cstdio>
+	<iostream>
+
+1527098041 source:d:\单片机+os\c++课件\c++实验报告\class_of_people\people.cpp
+	"people.hpp"
+	<cstdio>
+	<iostream>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1526905575 source:d:\单片机+os\c++课件\class_of_complex\main.cpp
+	<iostream>
+	<cstdio>
+	"complex.hpp"
+
+1526905418 d:\单片机+os\c++课件\class_of_complex\complex.hpp
+	<iostream>
+	<cstdio>
+	<math.h>
+
+1526905656 source:d:\单片机+os\c++课件\class_of_complex\complex.cpp
+	<iostream>
+	<cstdio>
+	"complex.hpp"
+
